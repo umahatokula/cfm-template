@@ -1,0 +1,15 @@
+.header {
+    min-height: 100px;
+}
+
+header a img.logo {
+   max-width: 100px;; 
+}
+
+#banner {
+    height: 800px;
+    background-color: aqua;
+    background-image: url('../images/banner/20210725_091228.jpg');
+    background-size: cover;
+    border-radius: 0 0 250px 250px;
+}
